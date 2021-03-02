@@ -11,7 +11,7 @@ SQL User-Defined Functions (UDFs) are custom functions that the user develops fo
 
 ![alt text](https://github.com/kellin12/DBFoundations-Module07/blob/main/Docs/KPI%20Script%20Screenshot.png "Figure 1: Example of a function created for inventory count KPIs")
 
-Figure 1: Example of a function created for inventory count KPIs
+#### Figure 1: Example of a function created for inventory count KPIs
 
 ## Scalar, Inline, and Multi-Statement Functions
 There are three types of user-defined functions: scalar, inline, and multi-statement. A scalar function returns a single value as an expression. An inline function returns a table as a result of the actions performed by the function and is derived from a single Select statement. Multi-statement functions return a table of data, like an inline function, but can be derived from multiple SQL statements. 
